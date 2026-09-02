@@ -3,7 +3,7 @@
 # Push to /data/local/tmp/ionstack.conf (or point $IONSTACK_CONFIG at
 # it) to run the exploit against a different kernel build without
 # recompiling. Values are hex or decimal; keys not listed keep their
-# built-in defaults (shown below for eureka-52168470043600520).
+# built-in defaults (shown below for eureka-52433670036000520).
 #
 # kimage_text_base is the absolute link-time base; every other key is
 # an offset relative to it, so overriding only kimage_text_base shifts
